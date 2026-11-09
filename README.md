@@ -1,4 +1,4 @@
 <div align="left">
-  <img src="./images/text.gif" width="180">
-  <img src="./images/key.gif" width="45">
+  <img src="./images/text.gif" height="30" style="vertical-align:middle;">
+  <img src="./images/lock.gif" height="30" style="vertical-align:middle;">
 </div>
